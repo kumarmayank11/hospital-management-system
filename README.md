@@ -12,7 +12,8 @@ A simple desktop-based Hospital Management System built using **Python** and **T
 ## 🖥️ Screenshots
 
 > (You can add a screenshot of the running app here, like this:)  
-> ![App Screenshot](screenshots/main_screen.png)
+> ![App Screenshot](![image](https://github.com/user-attachments/assets/22697370-9a51-4575-aa8f-dc9e01fe87d8)
+)
 
 ## 🛠️ Tech Stack
 
